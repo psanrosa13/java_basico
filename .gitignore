@@ -1,0 +1,26 @@
+### Intellij+all ###
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Intellij
+.idea/**
+*.iml
+*.ipr
+
+# CMake
+cmake-build-*/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+modules.xml
+*.ipr
+
