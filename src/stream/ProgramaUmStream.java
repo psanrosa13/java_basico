@@ -1,8 +1,10 @@
 package stream;
 
+import objetosTeste.ListaUsuarios;
+import objetosTeste.Usuario;
+
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class ProgramaUmStream {
     public static void main(String[] args) {

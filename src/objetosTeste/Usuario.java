@@ -1,6 +1,6 @@
-package stream;
+package objetosTeste;
 
-class Usuario {
+public class Usuario {
 
     private String nome;
     private int pontos;

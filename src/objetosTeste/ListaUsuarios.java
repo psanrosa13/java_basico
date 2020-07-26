@@ -1,4 +1,4 @@
-package stream;
+package objetosTeste;
 
 import java.util.ArrayList;
 import java.util.List;
