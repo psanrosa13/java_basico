@@ -6,6 +6,6 @@ This repository purpose for studies on the basic syntax of Java
 
 **ITENS ESTUDADOS**
 
-**STUDY ITENS**
+**STUDY ITEMS**
 
 - DATA TYPES
